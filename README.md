@@ -22,8 +22,7 @@
 
 <img width="506" alt="ffhyth" src="https://user-images.githubusercontent.com/85531028/121795419-7a377380-cc4b-11eb-9754-7d70347b313c.PNG">
 
-
-## MODEL 3 : 7 Layers with 4 Convolution layer
+## MODEL 2 : 5 Layers with 2 Convolution layer
 
 #### 1. Code Model
 
@@ -46,7 +45,7 @@
 <img width="751" alt="gghg" src="https://user-images.githubusercontent.com/85531028/121795236-d8fbed80-cc49-11eb-9c8d-c3a99fada08c.PNG">
 
 
-## MODEL 2 : 5 Layers with 2 Convolution layer
+## MODEL 3 : 7 Layers with 4 Convolution layer
 
 #### 1. Code Model
 
